@@ -9,6 +9,27 @@ I'm a Data Science Grad Student at Univeristy at Buffalo with 3.5+ years of indu
 - 🌐 I enjoy analysing the data to uncover hidden insights and generate valuable information form it by making use of different EDA and Data - Processing principles
 - 📚 Constantly learning and upskilling
 
+## Tech stack
+- AWS
+- Apache Spark
+- Scala
+- HBase 
+- Autosys
+- Git
+- Cyberark
+- Sqoop
+- Hive
+- HDFS
+- Confluence
+- Big Data
+- Python
+- Linux
+- MySQL
+- Shell Scripting
+- Bitbucket
+- Oracle SQL Developer
+- IBM Connect Direct(NDM)
+
 ## Portfolio Highlights
 - 🏆 [Project 1]: [Brief Description/Key Features]
 - 🌟 [Project 2]: [Brief Description/Key Features]
@@ -16,7 +37,7 @@ I'm a Data Science Grad Student at Univeristy at Buffalo with 3.5+ years of indu
 
 ## Let's Connect!
 📫 Feel free to reach out
-- [https://www.linkedin.com/in/abhinav51/]
-- (https://img.shields.io/badge/Let's_Connect-Contact-blueviolet?style=for-the-badge&logo=github)](https://github.com/anehra-15)
+- https://www.linkedin.com/in/abhinav51/
+- https://github.com/anehra-15/
 
 ### Check Out My Portfolio: https://anehra-15.github.io/abhinavNehra.github.io/
