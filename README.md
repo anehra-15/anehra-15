@@ -19,7 +19,7 @@ AWS | Apache Spark | Scala | HBase | Autosys | Git | Cyberark | Sqoop | Hive | H
 
 ## Let's Connect!
 📫 Feel free to reach out
-- https://www.linkedin.com/in/abhinav51/
-- https://github.com/anehra-15/
+- [Linkedin](https://www.linkedin.com/in/abhinav51/)
+- [Github](https://github.com/anehra-15/)
 
-### Check Out My Portfolio: https://anehra-15.github.io/abhinavNehra.github.io/
+### Check Out My Portfolio: [My_Website](https://anehra-15.github.io/abhinavNehra.github.io/)
