@@ -17,6 +17,6 @@ I'm a Data Science Grad Student at Univeristy at Buffalo with 3.5+ years of indu
 ## Let's Connect!
 📫 Feel free to reach out
 - [https://www.linkedin.com/in/abhinav51/]
-- [https://github.com/anehra-15]
+- (https://img.shields.io/badge/Let's_Connect-Contact-blueviolet?style=for-the-badge&logo=github)](https://github.com/anehra-15)
 
-### Check Out My Portfolio: [https://anehra-15.github.io/abhinavNehra.github.io/]
+### Check Out My Portfolio: https://anehra-15.github.io/abhinavNehra.github.io/
