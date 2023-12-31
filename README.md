@@ -25,5 +25,6 @@ AWS | Apache Spark | Scala | HBase | Autosys | Git | Cyberark | Sqoop | Hive | H
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/anehra-15/)
 
 
-### Check Out My Portfolio:    [![Portfolio](https://img.shields.io/badge/My-Website-green?style=for-the-badge)](https://anehra-15.github.io/abhinavNehra.github.io/)
+### Check Out My Portfolio
+[![Portfolio](https://img.shields.io/badge/My-Website-green?style=for-the-badge)](https://anehra-15.github.io/abhinavNehra.github.io/)
 
