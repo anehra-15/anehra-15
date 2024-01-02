@@ -12,10 +12,10 @@ I'm a Data Science Grad Student at Univeristy at Buffalo with 3.5+ years of indu
 ## Tech stack
 AWS | Apache Spark | Scala | HBase | Autosys | Git | Cyberark | Sqoop | Hive | HDFS | Confluence | Big Data | Python | Linux | MySQL | Shell Scripting | Bitbucket | Oracle SQL Developer | IBM Connect Direct(NDM)
 
-## Portfolio Highlights
-- 🏆 [Advanced Predictive Modelling in Healthcare Data Analytics for Early Disease Detection and Proactive Medical Intervention] 
-- 🌟 [Spotify data ETL pipeline using Python and AWS]
-- 🎨 [E-commerce Data Extraction with Python]
+## Projects
+- 🏆 Advanced Predictive Modelling in Healthcare Data Analytics for Early Disease Detection and Proactive Medical Intervention 
+- 🌟 Spotify data ETL pipeline using Python and AWS
+- 🎨 E-commerce Data Extraction with Python
 
 ## Let's Connect!
 📫 Feel free to reach out
