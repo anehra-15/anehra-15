@@ -14,8 +14,9 @@ AWS | Apache Spark | Scala | HBase | Autosys | Git | Cyberark | Sqoop | Hive | H
 
 ## Projects
 - 🏆 Advanced Predictive Modelling in Healthcare Data Analytics for Early Disease Detection and Proactive Medical Intervention 
-- 🌟 Spotify data ETL pipeline using Python and AWS
+- 🌟 Music Streaming Data ETL Pipeline using Python and AWS
 - 🎨 E-commerce Data Extraction with Python
+- 🎇 Bank Loan Approval Predictor
 
 ## Let's Connect!
 📫 Feel free to reach out
