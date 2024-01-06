@@ -10,7 +10,7 @@ I'm a Data Science Grad Student at Univeristy at Buffalo with 3.5+ years of indu
 - 📚 Constantly learning and upskilling
 
 ## Tech stack
-AWS | Apache Spark | Scala | HBase | Autosys | Git | Cyberark | Sqoop | Hive | HDFS | Confluence | Big Data | Python | Linux | MySQL | Shell Scripting | Bitbucket | Oracle SQL Developer | IBM Connect Direct(NDM)
+AWS | Apache Spark | Scala | HBase | Autosys | Git | Cyberark | Sqoop | Hive | HDFS | Confluence | Big Data | Python | Linux | MySQL | Shell Scripting | Bitbucket | EDA | Data Cleaning | IBM Connect Direct(NDM)
 
 ## Projects
 - 🏆 Advanced Predictive Modelling in Healthcare Data Analytics for Early Disease Detection and Proactive Medical Intervention 
