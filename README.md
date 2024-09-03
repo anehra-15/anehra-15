@@ -3,7 +3,7 @@
 Welcome to my corner of the web! 🚀
 
 ## About Me
-I'm a Data Science Grad Student at Univeristy at Buffalo with 3.5+ years of industry experience in Cloud Infrastructure and Data Engineering domain and I'm passionate about the Data Science and Engineering field and their application in generating valuable insights from messy and large datasets. Imagine a puzzle — I love piecing together information from chaotic datasets to reveal the big picture and unlock valuable secrets within!
+I'm a Data Science Grad Student at Univeristy at Buffalo with 3.5+ years of industry experience in Cloud Infrastructure and Data Engineering domain. Currently, I'm interning at Calix as a Cloud Data Pipeline Intern, where I'm part of the Datalake team, working and learning about various aspects of cloud-based data processing pipelines. I'm passionate about the Data Science and Engineering field and their applications in generating valuable insights from messy and large datasets. Imagine a puzzle — I love piecing together information from chaotic datasets to reveal the big picture and unlock valuable insights!
 
 ## What I Do
 - 🌐 I enjoy analysing the data to uncover hidden insights and generate valuable information form it by making use of different EDA and Data - Processing principles
