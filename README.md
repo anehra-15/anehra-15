@@ -12,6 +12,14 @@ With 3.5+ years of industry experience in cloud infrastructure and data engineer
 ## Tech stack
 Kafka, Airflow, AWS S3, Apache Spark, Scala, Autosys, CyberArk, Sqoop, Hive, HDFS, Confluence, WebLogic, Big Data, Python, Linux, MySQL, Shell Scripting, IBM Connect Direct (NDM), ServiceNow, R Programming, Data Mining, SQL, Apache Iceberg, Presto, Deeque, Docker, ArgoCD, AWS, Intellij, Git, Bitbucket, JIRA, Maven
 
+## Certifications
+- AWS Certified Cloud Practitioner
+- Spark Framework- Infosys
+- Oracle Cloud Infrastructure foundations 2021 Certified Associate- Oracle
+- Big Data 101- Infosys
+- Infosys Certified Python Associate- Infosys
+- Apache Kafka Tutorials- Infosys Springboard
+
 ## Projects
 - 🏆 Advanced Predictive Modelling in Healthcare Data Analytics for Early Disease Detection and Proactive Medical Intervention 
 - 🌟 Music Streaming Application Data ETL Pipeline using Python and AWS
