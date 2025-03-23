@@ -3,14 +3,14 @@
 Welcome to my corner of the web! 🚀
 
 ## About Me
-With 3.5+ years of industry experience in cloud infrastructure and data engineering, I bring a solid foundation in building and optimizing data pipelines, managing large datasets, and implementing scalable solutions using Big data tech stack and technologies like Python, Spark, AWS, and SQL etc. I'm passionate about the Data Science and Engineering field and their applications in generating valuable insights from messy and large datasets. Imagine a puzzle — I love piecing together information from chaotic datasets to reveal the big picture and unlock valuable insights!
+With 3.5+ years of industry experience in cloud infrastructure and data engineering, I bring a solid foundation in building and optimizing data pipelines, managing large datasets, and implementing scalable solutions using Big data tech stack and technologies like Python, Spark, AWS, PySpark and SQL etc. I'm passionate about the Data Science and Engineering field and their applications in generating valuable insights from messy and large datasets. Imagine a puzzle — I love piecing together information from chaotic datasets to reveal the big picture and unlock valuable insights!
 
 ## What I Do
 - 🌐 I enjoy analysing the data to uncover hidden insights and generate valuable information form it by making use of different EDA and Data - Processing principles
 - 📚 Constantly learning and upskilling
 
 ## Tech stack
-Kafka, Airflow, AWS S3, Apache Spark, Scala, Autosys, CyberArk, Sqoop, Hive, HDFS, Confluence, WebLogic, Big Data, Python, Linux, MySQL, Shell Scripting, IBM Connect Direct (NDM), ServiceNow, R Programming, Data Mining, SQL, Apache Iceberg, Presto, Deeque, Docker, ArgoCD, AWS, Intellij, Git, Bitbucket, JIRA, Maven
+Kafka, Airflow, AWS S3, Apache Spark, Scala, Autosys, CyberArk, Sqoop, Hive, HDFS, Confluence, WebLogic, Big Data, Python, Linux, MySQL, Shell Scripting, IBM Connect Direct (NDM), ServiceNow, R Programming, Data Mining, SQL, Apache Iceberg, Presto, Deeque, Docker, ArgoCD, AWS, Intellij, Git, Bitbucket, JIRA, Maven, PySpark
 
 ## Certifications
 - AWS Certified Cloud Practitioner
